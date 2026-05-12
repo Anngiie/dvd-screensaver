@@ -4,7 +4,9 @@ The classic bouncing DVD logo screensaver — built with HTML, CSS & JavaScript.
 
 ## Demo
 
-Open `index.html` in any browser. Works on all screen sizes.
+**[Live demo →](https://anngiie.github.io/dvd-screensaver/)**
+
+Or open `index.html` in any browser. Works on all screen sizes.
 
 ## How it works
 
