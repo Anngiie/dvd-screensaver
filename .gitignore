@@ -1,0 +1,8 @@
+dvd.scr
+publish/
+screensaver/bin/
+screensaver/obj/
+screensaver/out/
+dvd.scr.WebView2/
+.claude/
+*.sln
